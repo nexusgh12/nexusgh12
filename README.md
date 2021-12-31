@@ -4,7 +4,6 @@ I wanna be a IT Community developer.
 
 - 🌱 I’m currently learning Web, Machine Learning, Unity/Unreal engine 
 - 📫 How to reach me: nexusgh123@gmail.com 
-- 
 
 
 <a href="https://bit.ly/3FUS63y" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a> <a href="https://github.com/nexusgh12" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://www.instagram.com/9_hyeonn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://hyeonncodelogs.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
@@ -12,6 +11,7 @@ I wanna be a IT Community developer.
 
 
 ✏ Stack   
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
 
