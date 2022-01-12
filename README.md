@@ -4,8 +4,7 @@ I wanna be a IT Community developer.
 
 - 🌱 I’m currently learning Web, Machine Learning, Unity/Unreal engine 
 - 📫 How to reach me: nexusgh123@gmail.com 
-
-
+<a href="https://bit.ly/3FUS63y" target="_blank"><img src="https://img.shields.io/badge/Notion-2a2a2a?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://github.com/nexusgh12" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://www.instagram.com/9_hyeonn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-a3669b?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ✏ Stack   
