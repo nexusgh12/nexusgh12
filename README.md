@@ -22,12 +22,7 @@ I wanna be a IT Community developer.
 
 <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nexusgh12)
-
-
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=nexusgh12&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nexusgh12&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nexusgh12)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=nexusgh12&rank=SECRET,A,B&theme=dracula)
 
  <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexusgh12&show_icons=true&theme=default_repocard)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexusgh12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
