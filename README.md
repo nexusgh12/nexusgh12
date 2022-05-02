@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Guhyeon
 
-I wanna be a IT Community developer.
+I wanna be a backend developer.
 
 - 🌱 I’m currently learning Web, Machine Learning, Unity/Unreal engine 
 - 📫 How to reach me: nexusgh123@gmail.com 
