@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Guhyeon
 
-I wanna be a backend developer.
+I wanna be a full-stack developer.
 
-- 🌱 I’m currently learning Web, Machine Learning, Unity/Unreal engine 
+- 🌱 I’m currently learning Web(SpringFramework), Android(Kotlin), DB(Oracle) , Machine Learning, Unity/Unreal engine 
 - 📫 How to reach me: nexusgh123@gmail.com 
 
 
