@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Guhyeon
 
-I wanna be a full-stack developer.
-
-- 🌱 I’m currently learning Web(SpringFramework), Android(Kotlin), DB(Oracle) , Machine Learning, Unity/Unreal engine 
+- 🌱 My main field is Java(SpringFramework), DB(Oracle), Android(Kotlin).
+- My Side field is Machine Learning, Unity/Unreal engine(Game).
 - 📫 How to reach me: nexusgh123@gmail.com 
 
 
